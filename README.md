@@ -101,7 +101,7 @@ MSP-IMPROV-S01A-F01-P-FM02
 # premodel.pth
 # model.pth
 
-./run.py --propjs iemocap/your_dataset_path/your_expcase/param.json \
+./run.py --propjs iemocap/your_dataset_path/your_expcase/param.json
 
 #grep test iemocap/your_dataset_path/your_expcase/log
 
