@@ -1,4 +1,4 @@
-Automatic speech emotion recognition using recurrent neural networks with local attention
+A Pytorch implementation of 'AUTOMATIC SPEECH EMOTION RECOGNITION USING RECURRENT NEURAL NETWORKS WITH LOCAL ATTENTION' 
 ===
 
 
