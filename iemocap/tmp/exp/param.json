@@ -1,0 +1,13 @@
+{
+    "bsz": 64,
+    "dataset": "iemocap/tmp",
+    "ephs": 200,
+    "featdim": 32,
+    "fulldata": "iemocap/utt_lld.pk.zero_mean.pk",
+    "log": "iemocap/tmp/exp/log",
+    "lr": 5e-05,
+    "measure": "war",
+    "model": "iemocap/tmp/exp/model.pth",
+    "ncell": 128,
+    "nhid": 512
+}

@@ -1,1 +1,12 @@
 backup/*
+__pycache__/*
+*.pk
+*.htk
+*.pyc
+exp/*
+iemocap/sess*
+*.hdf5
+*.list
+*.csv
+*.swp
+run_run.py*

@@ -56,18 +56,22 @@ MSP-IMPROV-S01A-F01-P-FM02
 ## How to Run
 
 ```bash
+#done.
 ./add_opensmile_conf.sh your_opensmile_dir
 
-temporary
-#./prepare_list.sh iemocap/wav_cat.list \
-#	iemocap/egemaps.htk.list iemocap/utt.list iemocap/egemaps/
+#done.
+./prepare_list.sh iemocap/wav_cat.list \ # done.
+	iemocap/lld.htk.list iemocap/utt.list iemocap/lld/
 
-#./extract_egemaps.sh your_opensmile_dir/ iemocap/utt.list \
-#	iemocap/egemaps.htk.list
+#done.
+#./extract_lld.sh your_opensmile_dir/ iemocap/wav_cat.list \
+#	iemocap/lld.htk.list
 
-#./make_utt_egemaps_pair.py iemocap/utt.list iemocap/egemaps.htk.list \
-#	iemocap/utt_egemaps.pk
+#done.
+#./make_utt_lld_pair.py iemocap/utt.list iemocap/lld.htk.list \
+#	iemocap/utt_lld.pk
 
+#done.
 ./iemocap/make_csv.sh iemocap/utt.list iemocap/wav_cat.list iemocap/ \
 	iemocap/full_dataset.csv
 
@@ -83,8 +87,8 @@ temporary
 # sed 's/"gender"/"speaker"/' iemocap/make_dataset.py > new_script.py
 # sed 's/devfrac=0.2/devfrac=0.1/' iemocap/make_dataset.py > new_script.py
 
-tmp
-#./iemocap/make_dataset.py iemocap/full_dataset.csv iemocap/utt_egemaps.pk iemocap/your_dataset_path
+# done.
+#./iemocap/make_dataset.py iemocap/full_dataset.csv iemocap/utt_lld.pk iemocap/your_dataset_path
 
 # Modify make_expcase.py params as you want!
 #
@@ -95,8 +99,6 @@ tmp
 # ephs=200
 
 ./iemocap/make_expcase.py iemocap/your_dataset_path iemocap/your_dataset_path/your_expcase
-
-./main_prognet.py iemocap/your_dataset_path/your_expcase
 
 ls iemocap/your_dataset_path/your_expcase 
 

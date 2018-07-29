@@ -1,0 +1,425 @@
+[train]    0/ 200th epoch, loss: 1.672
+[train]    0/ 200th epoch, loss: 1.644
+[train]    0/ 200th epoch, loss: 1.546
+[train]    0/ 200th epoch, loss: 1.697
+[train]    0/ 200th epoch, loss: 1.710
+[valid] score: 0.263, loss: 1.465
+[valid] bestscore: 0.263, loss: 1.465
+[train]    1/ 200th epoch, loss: 1.684
+[valid] score: 0.296, loss: 1.423
+[valid] bestscore: 0.296, loss: 1.423
+[train]    2/ 200th epoch, loss: 1.580
+[valid] score: 0.340, loss: 1.398
+[valid] bestscore: 0.340, loss: 1.398
+[train]    3/ 200th epoch, loss: 1.592
+[valid] score: 0.361, loss: 1.376
+[valid] bestscore: 0.361, loss: 1.376
+[train]    4/ 200th epoch, loss: 1.578
+[valid] score: 0.376, loss: 1.365
+[valid] bestscore: 0.376, loss: 1.365
+[train]    5/ 200th epoch, loss: 1.714
+[valid] score: 0.372, loss: 1.367
+[train]    6/ 200th epoch, loss: 1.714
+[valid] score: 0.368, loss: 1.366
+[train]    7/ 200th epoch, loss: 1.718
+[valid] score: 0.374, loss: 1.364
+[train]    8/ 200th epoch, loss: 1.720
+[valid] score: 0.360, loss: 1.375
+[train]    9/ 200th epoch, loss: 1.716
+[valid] score: 0.391, loss: 1.347
+[valid] bestscore: 0.391, loss: 1.347
+[train]   10/ 200th epoch, loss: 1.718
+[valid] score: 0.392, loss: 1.346
+[valid] bestscore: 0.392, loss: 1.346
+[train]   11/ 200th epoch, loss: 1.713
+[valid] score: 0.388, loss: 1.348
+[train]   12/ 200th epoch, loss: 1.714
+[valid] score: 0.388, loss: 1.343
+[train]   13/ 200th epoch, loss: 1.623
+[valid] score: 0.430, loss: 1.304
+[valid] bestscore: 0.430, loss: 1.304
+[train]   14/ 200th epoch, loss: 1.659
+[valid] score: 0.461, loss: 1.275
+[valid] bestscore: 0.461, loss: 1.275
+[train]   15/ 200th epoch, loss: 1.620
+[valid] score: 0.426, loss: 1.306
+[train]   16/ 200th epoch, loss: 1.629
+[valid] score: 0.424, loss: 1.305
+[train]   17/ 200th epoch, loss: 1.649
+[valid] score: 0.452, loss: 1.280
+[train]   18/ 200th epoch, loss: 1.620
+[valid] score: 0.432, loss: 1.294
+[train]   19/ 200th epoch, loss: 1.627
+[valid] score: 0.433, loss: 1.291
+[train]   20/ 200th epoch, loss: 1.652
+[valid] score: 0.456, loss: 1.277
+[train]   21/ 200th epoch, loss: 1.682
+[valid] score: 0.456, loss: 1.278
+[train]   22/ 200th epoch, loss: 1.647
+[valid] score: 0.471, loss: 1.267
+[valid] bestscore: 0.471, loss: 1.267
+[train]   23/ 200th epoch, loss: 1.613
+[valid] score: 0.428, loss: 1.305
+[train]   24/ 200th epoch, loss: 1.641
+[valid] score: 0.460, loss: 1.270
+[train]   25/ 200th epoch, loss: 1.636
+[valid] score: 0.464, loss: 1.261
+[train]   26/ 200th epoch, loss: 1.638
+[valid] score: 0.475, loss: 1.257
+[valid] bestscore: 0.475, loss: 1.257
+[train]   27/ 200th epoch, loss: 1.654
+[valid] score: 0.460, loss: 1.274
+[train]   28/ 200th epoch, loss: 1.633
+[valid] score: 0.471, loss: 1.259
+[train]   29/ 200th epoch, loss: 1.633
+[valid] score: 0.468, loss: 1.262
+[train]   30/ 200th epoch, loss: 1.665
+[valid] score: 0.458, loss: 1.272
+[train]   31/ 200th epoch, loss: 1.602
+[valid] score: 0.461, loss: 1.270
+[train]   32/ 200th epoch, loss: 1.690
+[valid] score: 0.403, loss: 1.325
+[train]   33/ 200th epoch, loss: 1.661
+[valid] score: 0.466, loss: 1.265
+[train]   34/ 200th epoch, loss: 1.641
+[valid] score: 0.474, loss: 1.259
+[train]   35/ 200th epoch, loss: 1.642
+[valid] score: 0.469, loss: 1.269
+[train]   36/ 200th epoch, loss: 1.635
+[valid] score: 0.463, loss: 1.272
+[train]   37/ 200th epoch, loss: 1.645
+[valid] score: 0.460, loss: 1.275
+[train]   38/ 200th epoch, loss: 1.632
+[valid] score: 0.448, loss: 1.287
+[train]   39/ 200th epoch, loss: 1.657
+[valid] score: 0.480, loss: 1.257
+[valid] bestscore: 0.480, loss: 1.257
+[train]   40/ 200th epoch, loss: 1.672
+[valid] score: 0.459, loss: 1.278
+[train]   41/ 200th epoch, loss: 1.665
+[valid] score: 0.417, loss: 1.315
+[train]   42/ 200th epoch, loss: 1.663
+[valid] score: 0.451, loss: 1.277
+[train]   43/ 200th epoch, loss: 1.655
+[valid] score: 0.468, loss: 1.262
+[train]   44/ 200th epoch, loss: 1.654
+[valid] score: 0.463, loss: 1.270
+[train]   45/ 200th epoch, loss: 1.655
+[valid] score: 0.481, loss: 1.254
+[valid] bestscore: 0.481, loss: 1.254
+[train]   46/ 200th epoch, loss: 1.650
+[valid] score: 0.477, loss: 1.258
+[train]   47/ 200th epoch, loss: 1.660
+[valid] score: 0.453, loss: 1.280
+[train]   48/ 200th epoch, loss: 1.659
+[valid] score: 0.489, loss: 1.247
+[valid] bestscore: 0.489, loss: 1.247
+[train]   49/ 200th epoch, loss: 1.644
+[valid] score: 0.494, loss: 1.242
+[valid] bestscore: 0.494, loss: 1.242
+[train]   50/ 200th epoch, loss: 1.663
+[valid] score: 0.489, loss: 1.247
+[train]   51/ 200th epoch, loss: 1.670
+[valid] score: 0.485, loss: 1.255
+[train]   52/ 200th epoch, loss: 1.638
+[valid] score: 0.490, loss: 1.247
+[train]   53/ 200th epoch, loss: 1.668
+[valid] score: 0.478, loss: 1.253
+[train]   54/ 200th epoch, loss: 1.660
+[valid] score: 0.484, loss: 1.254
+[train]   55/ 200th epoch, loss: 1.660
+[valid] score: 0.474, loss: 1.258
+[train]   56/ 200th epoch, loss: 1.662
+[valid] score: 0.463, loss: 1.266
+[train]   57/ 200th epoch, loss: 1.646
+[valid] score: 0.429, loss: 1.299
+[train]   58/ 200th epoch, loss: 1.667
+[valid] score: 0.487, loss: 1.251
+[train]   59/ 200th epoch, loss: 1.651
+[valid] score: 0.480, loss: 1.251
+[train]   60/ 200th epoch, loss: 1.634
+[valid] score: 0.498, loss: 1.238
+[valid] bestscore: 0.498, loss: 1.238
+[train]   61/ 200th epoch, loss: 1.665
+[valid] score: 0.468, loss: 1.263
+[train]   62/ 200th epoch, loss: 1.653
+[valid] score: 0.462, loss: 1.268
+[train]   63/ 200th epoch, loss: 1.670
+[valid] score: 0.459, loss: 1.277
+[train]   64/ 200th epoch, loss: 1.645
+[valid] score: 0.483, loss: 1.255
+[train]   65/ 200th epoch, loss: 1.664
+[valid] score: 0.479, loss: 1.257
+[train]   66/ 200th epoch, loss: 1.663
+[valid] score: 0.467, loss: 1.270
+[train]   67/ 200th epoch, loss: 1.663
+[valid] score: 0.473, loss: 1.265
+[train]   68/ 200th epoch, loss: 1.643
+[valid] score: 0.481, loss: 1.254
+[train]   69/ 200th epoch, loss: 1.653
+[valid] score: 0.485, loss: 1.251
+[train]   70/ 200th epoch, loss: 1.663
+[valid] score: 0.470, loss: 1.267
+[train]   71/ 200th epoch, loss: 1.664
+[valid] score: 0.471, loss: 1.262
+[train]   72/ 200th epoch, loss: 1.664
+[valid] score: 0.461, loss: 1.270
+[train]   73/ 200th epoch, loss: 1.670
+[valid] score: 0.467, loss: 1.271
+[train]   74/ 200th epoch, loss: 1.658
+[valid] score: 0.471, loss: 1.262
+[train]   75/ 200th epoch, loss: 1.663
+[valid] score: 0.440, loss: 1.292
+[train]   76/ 200th epoch, loss: 1.660
+[valid] score: 0.470, loss: 1.267
+[train]   77/ 200th epoch, loss: 1.665
+[valid] score: 0.474, loss: 1.262
+[train]   78/ 200th epoch, loss: 1.669
+[valid] score: 0.465, loss: 1.271
+[train]   79/ 200th epoch, loss: 1.664
+[valid] score: 0.463, loss: 1.272
+[train]   80/ 200th epoch, loss: 1.655
+[valid] score: 0.482, loss: 1.253
+[train]   81/ 200th epoch, loss: 1.657
+[valid] score: 0.480, loss: 1.248
+[train]   82/ 200th epoch, loss: 1.654
+[valid] score: 0.486, loss: 1.250
+[train]   83/ 200th epoch, loss: 1.656
+[valid] score: 0.463, loss: 1.269
+[train]   84/ 200th epoch, loss: 1.669
+[valid] score: 0.471, loss: 1.265
+[train]   85/ 200th epoch, loss: 1.677
+[valid] score: 0.459, loss: 1.285
+[train]   86/ 200th epoch, loss: 1.665
+[valid] score: 0.477, loss: 1.262
+[train]   87/ 200th epoch, loss: 1.667
+[valid] score: 0.472, loss: 1.266
+[train]   88/ 200th epoch, loss: 1.644
+[valid] score: 0.475, loss: 1.258
+[train]   89/ 200th epoch, loss: 1.651
+[valid] score: 0.488, loss: 1.253
+[train]   90/ 200th epoch, loss: 1.660
+[valid] score: 0.480, loss: 1.259
+[train]   91/ 200th epoch, loss: 1.680
+[valid] score: 0.479, loss: 1.262
+[train]   92/ 200th epoch, loss: 1.663
+[valid] score: 0.480, loss: 1.257
+[train]   93/ 200th epoch, loss: 1.658
+[valid] score: 0.472, loss: 1.263
+[train]   94/ 200th epoch, loss: 1.662
+[valid] score: 0.486, loss: 1.255
+[train]   95/ 200th epoch, loss: 1.664
+[valid] score: 0.464, loss: 1.270
+[train]   96/ 200th epoch, loss: 1.667
+[valid] score: 0.486, loss: 1.260
+[train]   97/ 200th epoch, loss: 1.663
+[valid] score: 0.467, loss: 1.267
+[train]   98/ 200th epoch, loss: 1.665
+[valid] score: 0.475, loss: 1.262
+[train]   99/ 200th epoch, loss: 1.669
+[valid] score: 0.491, loss: 1.250
+[train]  100/ 200th epoch, loss: 1.659
+[valid] score: 0.461, loss: 1.278
+[train]  101/ 200th epoch, loss: 1.658
+[valid] score: 0.462, loss: 1.276
+[train]  102/ 200th epoch, loss: 1.665
+[valid] score: 0.465, loss: 1.273
+[train]  103/ 200th epoch, loss: 1.665
+[valid] score: 0.473, loss: 1.265
+[train]  104/ 200th epoch, loss: 1.657
+[valid] score: 0.476, loss: 1.258
+[train]  105/ 200th epoch, loss: 1.659
+[valid] score: 0.481, loss: 1.259
+[train]  106/ 200th epoch, loss: 1.664
+[valid] score: 0.475, loss: 1.264
+[train]  107/ 200th epoch, loss: 1.660
+[valid] score: 0.470, loss: 1.271
+[train]  108/ 200th epoch, loss: 1.658
+[valid] score: 0.470, loss: 1.267
+[train]  109/ 200th epoch, loss: 1.670
+[valid] score: 0.461, loss: 1.276
+[train]  110/ 200th epoch, loss: 1.673
+[valid] score: 0.483, loss: 1.257
+[train]  111/ 200th epoch, loss: 1.666
+[valid] score: 0.472, loss: 1.264
+[train]  112/ 200th epoch, loss: 1.666
+[valid] score: 0.475, loss: 1.264
+[train]  113/ 200th epoch, loss: 1.652
+[valid] score: 0.479, loss: 1.257
+[train]  114/ 200th epoch, loss: 1.653
+[valid] score: 0.483, loss: 1.257
+[train]  115/ 200th epoch, loss: 1.660
+[valid] score: 0.484, loss: 1.258
+[train]  116/ 200th epoch, loss: 1.663
+[valid] score: 0.458, loss: 1.275
+[train]  117/ 200th epoch, loss: 1.671
+[valid] score: 0.481, loss: 1.260
+[train]  118/ 200th epoch, loss: 1.669
+[valid] score: 0.478, loss: 1.260
+[train]  119/ 200th epoch, loss: 1.669
+[valid] score: 0.479, loss: 1.261
+[train]  120/ 200th epoch, loss: 1.661
+[valid] score: 0.480, loss: 1.253
+[train]  121/ 200th epoch, loss: 1.664
+[valid] score: 0.484, loss: 1.250
+[train]  122/ 200th epoch, loss: 1.660
+[valid] score: 0.480, loss: 1.256
+[train]  123/ 200th epoch, loss: 1.659
+[valid] score: 0.482, loss: 1.254
+[train]  124/ 200th epoch, loss: 1.662
+[valid] score: 0.481, loss: 1.251
+[train]  125/ 200th epoch, loss: 1.665
+[valid] score: 0.480, loss: 1.257
+[train]  126/ 200th epoch, loss: 1.656
+[valid] score: 0.489, loss: 1.248
+[train]  127/ 200th epoch, loss: 1.669
+[valid] score: 0.480, loss: 1.252
+[train]  128/ 200th epoch, loss: 1.653
+[valid] score: 0.497, loss: 1.240
+[train]  129/ 200th epoch, loss: 1.662
+[valid] score: 0.489, loss: 1.245
+[train]  130/ 200th epoch, loss: 1.656
+[valid] score: 0.510, loss: 1.234
+[valid] bestscore: 0.510, loss: 1.234
+[train]  131/ 200th epoch, loss: 1.672
+[valid] score: 0.482, loss: 1.247
+[train]  132/ 200th epoch, loss: 1.656
+[valid] score: 0.499, loss: 1.241
+[train]  133/ 200th epoch, loss: 1.665
+[valid] score: 0.492, loss: 1.243
+[train]  134/ 200th epoch, loss: 1.660
+[valid] score: 0.486, loss: 1.248
+[train]  135/ 200th epoch, loss: 1.673
+[valid] score: 0.480, loss: 1.259
+[train]  136/ 200th epoch, loss: 1.666
+[valid] score: 0.487, loss: 1.253
+[train]  137/ 200th epoch, loss: 1.666
+[valid] score: 0.506, loss: 1.236
+[train]  138/ 200th epoch, loss: 1.666
+[valid] score: 0.493, loss: 1.246
+[train]  139/ 200th epoch, loss: 1.659
+[valid] score: 0.494, loss: 1.242
+[train]  140/ 200th epoch, loss: 1.672
+[valid] score: 0.493, loss: 1.244
+[train]  141/ 200th epoch, loss: 1.656
+[valid] score: 0.504, loss: 1.239
+[train]  142/ 200th epoch, loss: 1.674
+[valid] score: 0.483, loss: 1.250
+[train]  143/ 200th epoch, loss: 1.663
+[valid] score: 0.509, loss: 1.234
+[train]  144/ 200th epoch, loss: 1.662
+[valid] score: 0.498, loss: 1.240
+[train]  145/ 200th epoch, loss: 1.664
+[valid] score: 0.498, loss: 1.237
+[train]  146/ 200th epoch, loss: 1.666
+[valid] score: 0.491, loss: 1.247
+[train]  147/ 200th epoch, loss: 1.663
+[valid] score: 0.489, loss: 1.247
+[train]  148/ 200th epoch, loss: 1.663
+[valid] score: 0.490, loss: 1.247
+[train]  149/ 200th epoch, loss: 1.669
+[valid] score: 0.488, loss: 1.245
+[train]  150/ 200th epoch, loss: 1.681
+[valid] score: 0.493, loss: 1.241
+[train]  151/ 200th epoch, loss: 1.659
+[valid] score: 0.498, loss: 1.237
+[train]  152/ 200th epoch, loss: 1.656
+[valid] score: 0.486, loss: 1.248
+[train]  153/ 200th epoch, loss: 1.666
+[valid] score: 0.494, loss: 1.240
+[train]  154/ 200th epoch, loss: 1.672
+[valid] score: 0.490, loss: 1.241
+[train]  155/ 200th epoch, loss: 1.646
+[valid] score: 0.499, loss: 1.236
+[train]  156/ 200th epoch, loss: 1.642
+[valid] score: 0.507, loss: 1.228
+[train]  157/ 200th epoch, loss: 1.648
+[valid] score: 0.500, loss: 1.238
+[train]  158/ 200th epoch, loss: 1.656
+[valid] score: 0.497, loss: 1.236
+[train]  159/ 200th epoch, loss: 1.664
+[valid] score: 0.500, loss: 1.233
+[train]  160/ 200th epoch, loss: 1.664
+[valid] score: 0.497, loss: 1.240
+[train]  161/ 200th epoch, loss: 1.639
+[valid] score: 0.502, loss: 1.236
+[train]  162/ 200th epoch, loss: 1.670
+[valid] score: 0.506, loss: 1.235
+[train]  163/ 200th epoch, loss: 1.657
+[valid] score: 0.500, loss: 1.232
+[train]  164/ 200th epoch, loss: 1.671
+[valid] score: 0.463, loss: 1.272
+[train]  165/ 200th epoch, loss: 1.666
+[valid] score: 0.497, loss: 1.239
+[train]  166/ 200th epoch, loss: 1.669
+[valid] score: 0.487, loss: 1.250
+[train]  167/ 200th epoch, loss: 1.660
+[valid] score: 0.462, loss: 1.268
+[train]  168/ 200th epoch, loss: 1.642
+[valid] score: 0.502, loss: 1.232
+[train]  169/ 200th epoch, loss: 1.670
+[valid] score: 0.504, loss: 1.232
+[train]  170/ 200th epoch, loss: 1.645
+[valid] score: 0.495, loss: 1.239
+[train]  171/ 200th epoch, loss: 1.659
+[valid] score: 0.501, loss: 1.232
+[train]  172/ 200th epoch, loss: 1.660
+[valid] score: 0.511, loss: 1.230
+[valid] bestscore: 0.511, loss: 1.230
+[train]  173/ 200th epoch, loss: 1.664
+[valid] score: 0.510, loss: 1.228
+[train]  174/ 200th epoch, loss: 1.653
+[valid] score: 0.516, loss: 1.225
+[valid] bestscore: 0.516, loss: 1.225
+[train]  175/ 200th epoch, loss: 1.660
+[valid] score: 0.518, loss: 1.219
+[valid] bestscore: 0.518, loss: 1.219
+[train]  176/ 200th epoch, loss: 1.658
+[valid] score: 0.497, loss: 1.245
+[train]  177/ 200th epoch, loss: 1.676
+[valid] score: 0.508, loss: 1.229
+[train]  178/ 200th epoch, loss: 1.660
+[valid] score: 0.507, loss: 1.231
+[train]  179/ 200th epoch, loss: 1.665
+[valid] score: 0.505, loss: 1.231
+[train]  180/ 200th epoch, loss: 1.644
+[valid] score: 0.503, loss: 1.231
+[train]  181/ 200th epoch, loss: 1.662
+[valid] score: 0.496, loss: 1.237
+[train]  182/ 200th epoch, loss: 1.662
+[valid] score: 0.499, loss: 1.233
+[train]  183/ 200th epoch, loss: 1.639
+[valid] score: 0.512, loss: 1.226
+[train]  184/ 200th epoch, loss: 1.659
+[valid] score: 0.503, loss: 1.229
+[train]  185/ 200th epoch, loss: 1.664
+[valid] score: 0.508, loss: 1.226
+[train]  186/ 200th epoch, loss: 1.677
+[valid] score: 0.504, loss: 1.229
+[train]  187/ 200th epoch, loss: 1.652
+[valid] score: 0.515, loss: 1.222
+[train]  188/ 200th epoch, loss: 1.668
+[valid] score: 0.509, loss: 1.228
+[train]  189/ 200th epoch, loss: 1.654
+[valid] score: 0.509, loss: 1.224
+[train]  190/ 200th epoch, loss: 1.671
+[valid] score: 0.516, loss: 1.225
+[train]  191/ 200th epoch, loss: 1.670
+[valid] score: 0.504, loss: 1.231
+[train]  192/ 200th epoch, loss: 1.673
+[valid] score: 0.509, loss: 1.226
+[train]  193/ 200th epoch, loss: 1.658
+[valid] score: 0.496, loss: 1.240
+[train]  194/ 200th epoch, loss: 1.653
+[valid] score: 0.512, loss: 1.225
+[train]  195/ 200th epoch, loss: 1.683
+[valid] score: 0.488, loss: 1.246
+[train]  196/ 200th epoch, loss: 1.657
+[valid] score: 0.513, loss: 1.223
+[train]  197/ 200th epoch, loss: 1.683
+[valid] score: 0.466, loss: 1.268
+[train]  198/ 200th epoch, loss: 1.642
+[valid] score: 0.511, loss: 1.226
+[train]  199/ 200th epoch, loss: 1.634
+[valid] score: 0.508, loss: 1.227
+[test] score: 0.451, loss: 1.282
