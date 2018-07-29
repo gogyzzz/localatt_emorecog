@@ -56,22 +56,17 @@ MSP-IMPROV-S01A-F01-P-FM02
 ## How to Run
 
 ```bash
-#done.
 ./add_opensmile_conf.sh your_opensmile_dir
 
-#done.
 ./prepare_list.sh iemocap/wav_cat.list \ # done.
 	iemocap/lld.htk.list iemocap/utt.list iemocap/lld/
 
-#done.
-#./extract_lld.sh your_opensmile_dir/ iemocap/wav_cat.list \
-#	iemocap/lld.htk.list
+./extract_lld.sh your_opensmile_dir/ iemocap/wav_cat.list \
+	iemocap/lld.htk.list
 
-#done.
-#./make_utt_lld_pair.py iemocap/utt.list iemocap/lld.htk.list \
-#	iemocap/utt_lld.pk
+./make_utt_lld_pair.py iemocap/utt.list iemocap/lld.htk.list \
+	iemocap/utt_lld.pk
 
-#done.
 ./iemocap/make_csv.sh iemocap/utt.list iemocap/wav_cat.list iemocap/ \
 	iemocap/full_dataset.csv
 
@@ -87,8 +82,7 @@ MSP-IMPROV-S01A-F01-P-FM02
 # sed 's/"gender"/"speaker"/' iemocap/make_dataset.py > new_script.py
 # sed 's/devfrac=0.2/devfrac=0.1/' iemocap/make_dataset.py > new_script.py
 
-# done.
-#./iemocap/make_dataset.py iemocap/full_dataset.csv iemocap/utt_lld.pk iemocap/your_dataset_path
+./iemocap/make_dataset.py iemocap/full_dataset.csv iemocap/utt_lld.pk iemocap/your_dataset_path
 
 # Modify make_expcase.py params as you want!
 #
@@ -100,7 +94,7 @@ MSP-IMPROV-S01A-F01-P-FM02
 
 ./iemocap/make_expcase.py iemocap/your_dataset_path iemocap/your_dataset_path/your_expcase
 
-ls iemocap/your_dataset_path/your_expcase 
+#ls iemocap/your_dataset_path/your_expcase 
 
 # log	
 # param.json
@@ -108,12 +102,10 @@ ls iemocap/your_dataset_path/your_expcase
 # model.pth
 
 ./run.py --propjs iemocap/your_dataset_path/your_expcase/param.json \
-	> iemocap/your_dataset_path/your_expcase/log
 
-grep test iemocap/your_dataset_path/your_expcase/log
+#grep test iemocap/your_dataset_path/your_expcase/log
 
-#[test] score: 0.509, loss: 1.220 
-
+#[test] score: 0.451, loss: 1.282
 
 ```
 
