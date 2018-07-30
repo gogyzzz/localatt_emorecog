@@ -105,8 +105,11 @@ MSP-IMPROV-S01A-F01-P-FM02
 
 #grep test iemocap/your_dataset_path/your_expcase/log
 
-#[test] score: 0.451, loss: 1.282
-
+#iemocap/sess1/exp/log:[test] score: 0.451, loss: 1.282
+#iemocap/sess2/exp/log:[test] score: 0.535, loss: 1.201
+#iemocap/sess3/exp/log:[test] score: 0.609, loss: 1.131
+#iemocap/sess4/exp/log:[test] score: 0.560, loss: 1.177
+#iemocap/sess5/exp/log:[test] score: 0.505, loss: 1.233
 ```
 
 
