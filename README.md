@@ -103,7 +103,9 @@ MSP-IMPROV-S01A-F01-P-FM02
 
 ./run.py --propjs iemocap/your_dataset_path/your_expcase/param.json
 
-#grep test iemocap/your_dataset_path/your_expcase/log
+# exp results were not tuned.
+
+# grep test iemocap/your_dataset_path/your_expcase/log
 # iemocap/sess1/exp/log:[test] score: 0.459, loss: 1.278
 # iemocap/sess2/exp/log:[test] score: 0.542, loss: 1.190
 # iemocap/sess3/exp/log:[test] score: 0.542, loss: 1.195
