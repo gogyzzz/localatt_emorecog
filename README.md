@@ -104,12 +104,20 @@ MSP-IMPROV-S01A-F01-P-FM02
 ./run.py --propjs iemocap/your_dataset_path/your_expcase/param.json
 
 #grep test iemocap/your_dataset_path/your_expcase/log
+# iemocap/sess1/exp/log:[test] score: 0.459, loss: 1.278
+# iemocap/sess2/exp/log:[test] score: 0.542, loss: 1.190
+# iemocap/sess3/exp/log:[test] score: 0.542, loss: 1.195
+# iemocap/sess4/exp/log:[test] score: 0.521, loss: 1.214
+# iemocap/sess5/exp/log:[test] score: 0.513, loss: 1.226
 
-#iemocap/sess1/exp/log:[test] score: 0.451, loss: 1.282
-#iemocap/sess2/exp/log:[test] score: 0.535, loss: 1.201
-#iemocap/sess3/exp/log:[test] score: 0.609, loss: 1.131
-#iemocap/sess4/exp/log:[test] score: 0.560, loss: 1.177
-#iemocap/sess5/exp/log:[test] score: 0.505, loss: 1.233
+# grep test msp_improv/sess?/exp/log
+# msp_improv/sess1/exp/log:[test] score: 0.493, loss: 1.238
+# msp_improv/sess2/exp/log:[test] score: 0.485, loss: 1.249
+# msp_improv/sess3/exp/log:[test] score: 0.526, loss: 1.208
+# msp_improv/sess4/exp/log:[test] score: 0.502, loss: 1.225
+# msp_improv/sess5/exp/log:[test] score: 0.474, loss: 1.261
+
+
 ```
 
 
